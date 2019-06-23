@@ -1,3 +1,17 @@
 .num {
     color: #fff !important;
 }
+
+.my {
+    font-size: 1.5rem;
+    margin-top: 20px;
+    color: #5e0de0;
+}
+
+.duyou {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    background: #664ab4;
+}
